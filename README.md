@@ -1,4 +1,4 @@
-# NET6 App With Azure KeyVault
+# .NET 6 App with Azure KeyVault
 
 Sample .NET 6 App with Azure Key Vault
 
